@@ -5,9 +5,11 @@ This repository contains a list of papers related to model lens and reasoning
 
 ## papers
 ### survey
+- **Large Language Models: A Survey**. *Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, Jianfeng Gao*. arXiv preprint arXiv:2402.06196, 2024. [[pdf](https://arxiv.org/pdf/2402.06196.pdf)]
+
 - **Challenges and applications of large language models**. *Kaddour, Jean and Harris, Joshua and Mozes, Maximilian and Bradley, Herbie and Raileanu, Roberta and McHardy, Robert*. arXiv preprint arXiv:2307.10169, 2023. [[pdf](https://arxiv.org/pdf/2307.10169.pdf)]
 
-- **Large Language Models: A Survey**. *Shervin Minaee, Tomas Mikolov, Narjes Nikzad, Meysam Chenaghlu, Richard Socher, Xavier Amatriain, Jianfeng Gao*. arXiv preprint arXiv:2402.06196, 2024. [[pdf](https://arxiv.org/pdf/2402.06196.pdf)]
+**A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. *Sahoo, Pranab and Singh, Ayush Kumar and Saha, Sriparna and Jain, Vinija and Mondal, Samrat and Chadha, Aman*. arXiv preprint arXiv:2402.07927, 2024. [[pdf](https://arxiv.org/abs/2402.07927)]
 
 ### benchmark
 - **Training Veriﬁers to Solve Math Word Problems**. *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman*. CoRR, 2021. [[pdf](https://arxiv.org/pdf/2110.14168.pdf?curius=520), [code](https://github.com/openai/grade-school-math)]
@@ -30,3 +32,6 @@ This repository contains a list of papers related to model lens and reasoning
 - **All bark and no bite: Rogue dimensions in transformer language models obscure representational quality**. *Timkey, William and van Schijndel, Marten*. EMNLP, 2021. [[pdf](https://arxiv.org/pdf/2109.04404.pdf), [code](https://github.com/wtimkey/rogue-dimensions)]
 
 ### others
+- **Chain-of-Thought Reasoning Without Prompting**. *Wang, Xuezhi and Zhou, Denny*. arXiv preprint arXiv:2402.10200, 2024. [[pdf](https://arxiv.org/pdf/2402.10200.pdf)]
+
+- **Premise Order Matters in Reasoning with Large Language Models**. *Chen, Xinyun and Chi, Ryan A and Wang, Xuezhi and Zhou, Denny*. arXiv preprint arXiv:2402.08939, 2024. [[pdf](https://arxiv.org/pdf/2402.08939.pdf)]
