@@ -9,7 +9,7 @@ This repository contains a list of papers related to model lens and reasoning
 
 - **Challenges and applications of large language models**. *Kaddour, Jean and Harris, Joshua and Mozes, Maximilian and Bradley, Herbie and Raileanu, Roberta and McHardy, Robert*. arXiv preprint arXiv:2307.10169, 2023. [[pdf](https://arxiv.org/pdf/2307.10169.pdf)]
 
-**A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. *Sahoo, Pranab and Singh, Ayush Kumar and Saha, Sriparna and Jain, Vinija and Mondal, Samrat and Chadha, Aman*. arXiv preprint arXiv:2402.07927, 2024. [[pdf](https://arxiv.org/abs/2402.07927)]
+- **A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**. *Sahoo, Pranab and Singh, Ayush Kumar and Saha, Sriparna and Jain, Vinija and Mondal, Samrat and Chadha, Aman*. arXiv preprint arXiv:2402.07927, 2024. [[pdf](https://arxiv.org/abs/2402.07927)]
 
 ### benchmark
 - **Training Veriﬁers to Solve Math Word Problems**. *Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman*. CoRR, 2021. [[pdf](https://arxiv.org/pdf/2110.14168.pdf?curius=520), [code](https://github.com/openai/grade-school-math)]
