@@ -38,7 +38,8 @@ This repository contains a list of papers related to model lens and reasoning
 
 - **Do Large Language Models Latently Perform Multi-Hop Reasoning?**. *Yang, Sohee and Gribovskaya, Elena and Kassner, Nora and Geva, Mor and Riedel, Sebastian*. arXiv preprint arXiv:2402.16837, 2024. [[pdf](https://arxiv.org/pdf/2402.16837v1.pdf)]
 
-- **Residual connections encourage iterative inference**. *Jastrzebski, Stanislaw and Arpit, Devansh and Ballas, Nicolas and Verma, Vikas and Che, Tong and Bengio, Yoshua*. ICLR, 2018. [[pdf](https://arxiv.org/pdf/1710.04773.pdf), [code](https://github.com/AlignmentResearch/tuned-lens)]
+- **Residual connections encourage iterative inference**. *Jastrzebski, Stanislaw an
+- d Arpit, Devansh and Ballas, Nicolas and Verma, Vikas and Che, Tong and Bengio, Yoshua*. ICLR, 2018. [[pdf](https://arxiv.org/pdf/1710.04773.pdf), [code](https://github.com/AlignmentResearch/tuned-lens)]
 
 - **Confident adaptive language modeling**. *Schuster, Tal and Fisch, Adam and Gupta, Jai and Dehghani, Mostafa and Bahri, Dara and Tran, Vinh and Tay, Yi and Metzler, Donald*. NeurIPS, 2022. [[pdf](https://proceedings.neurips.cc/paper_files/paper/2022/file/6fac9e316a4ae75ea244ddcef1982c71-Paper-Conference.pdf), [code](https://github.com/AlignmentResearch/tuned-lens)]
 
