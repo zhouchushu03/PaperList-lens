@@ -16,6 +16,8 @@ This repository contains a list of papers related to model lens and reasoning
 
 - **Measuring mathematical problem solving with the math dataset**. *Hendrycks, Dan and Burns, Collin and Kadavath, Saurav and Arora, Akul and Basart, Steven and Tang, Eric and Song, Dawn and Steinhardt, Jacob*. NeurIPS, 2022. [[pdf](https://arxiv.org/pdf/2103.03874.pdf), [code](https://github.com/hendrycks/math), [dataset](https://github.com/hendrycks/math)]
 
+- **Orca-Math: Unlocking the potential of SLMs in Grade School Math**. *Mitra, Arindam and Khanpour, Hamed and Rosset, Corby and Awadallah, Ahmed*. arXiv preprint arXiv:2402.14830, 2024. [[pdf](https://arxiv.org/pdf/2402.14830.pdf), [dataset](https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k)]
+
 - **MathScale: Scaling Instruction Tuning for Mathematical Reasoning**. *Zhengyang Tang, Xingxing Zhang, Benyou Wang, Furu Wei*. arXiv preprint arXiv:2403.02884, 2024. [[pdf](https://arxiv.org/pdf/2403.02884.pdf)]
 
 - **AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts**. *Yifan Zhang, Yifan Luo, Yang Yuan, Andrew Chi-Chih Yao*. arXiv preprint arXiv:2402.07625, 2024. [[pdf](https://arxiv.org/pdf/2402.07625.pdf), [code](https://github.com/yifanzhang-pro/AutoMathText), [dataset](https://huggingface.co/datasets/math-ai/AutoMathText)]
@@ -32,11 +34,13 @@ This repository contains a list of papers related to model lens and reasoning
 - **Overthinking the truth: Understanding how language models process false demonstrations**. *Halawi, Danny and Denain, Jean-Stanislas and Steinhardt, Jacob*. ICLR, 2024. [[pdf](https://arxiv.org/pdf/2307.09476.pdf), [code](https://github.com/dannyallover/overthinking_the_truth)]
 
 ### others
+- **Do Large Language Models Latently Perform Multi-Hop Reasoning?**. *Yang, Sohee and Gribovskaya, Elena and Kassner, Nora and Geva, Mor and Riedel, Sebastian*. arXiv preprint arXiv:2402.16837, 2024. [[pdf](https://arxiv.org/pdf/2402.16837v1.pdf)]
+
 - **Chain-of-Thought Reasoning Without Prompting**. *Wang, Xuezhi and Zhou, Denny*. arXiv preprint arXiv:2402.10200, 2024. [[pdf](https://arxiv.org/pdf/2402.10200.pdf)]
 
 - **Premise Order Matters in Reasoning with Large Language Models**. *Chen, Xinyun and Chi, Ryan A and Wang, Xuezhi and Zhou, Denny*. arXiv preprint arXiv:2402.08939, 2024. [[pdf](https://arxiv.org/pdf/2402.08939.pdf)]
 
-- **Do Large Language Models Latently Perform Multi-Hop Reasoning?**. *Yang, Sohee and Gribovskaya, Elena and Kassner, Nora and Geva, Mor and Riedel, Sebastian*. arXiv preprint arXiv:2402.16837, 2024. [[pdf](https://arxiv.org/pdf/2402.16837v1.pdf)]
+- **Teaching Large Language Models to Reason with Reinforcement Learning**. *Alex Havrilla, Yuqing Du, Sharath Chandra Raparthy, Christoforos Nalmpantis, Jane Dwivedi-Yu, Maksym Zhuravinskyi, Eric Hambro, Sainbayar Sukhbaatar, Roberta Raileanu*.  arXiv preprint arXiv:2403.04642, 2024. [[pdf](https://arxiv.org/pdf/2403.04642.pdf)]
 
 - **Residual connections encourage iterative inference**. *Jastrzebski, Stanislaw an
 - d Arpit, Devansh and Ballas, Nicolas and Verma, Vikas and Che, Tong and Bengio, Yoshua*. ICLR, 2018. [[pdf](https://arxiv.org/pdf/1710.04773.pdf), [code](https://github.com/AlignmentResearch/tuned-lens)]
